@@ -1,0 +1,12 @@
+{
+  "name": "TruckParts AI Uz — Buxoro",
+  "description": "Buxoro M-37 / E-40 tranzit yo'lidagi og'ir yuk mashinalari (Howo, Shacman, Volvo, MAN, DAF, Scania, Schmitz, Krone) uchun AI foto-skaner, ovozli qidiruv, Trassa SOS va Google Sheets sinxronizatsiyali ehtiyot qismlar platformasi.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
